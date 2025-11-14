@@ -1,0 +1,17 @@
+[
+  {
+    "id": "2jObRJnoS4A1ntvF72-ct",
+    "email": "chriss6202@gmail.com",
+    "name": "di",
+    "hash": "$2a$10$jhgnRSV3ahf4RitCs/Px8.aG1ClwNIZET1Toev3RnKRT7tgpRFuO6",
+    "createdAt": 1761108505973
+  },
+  {
+    "id": "_z-Qc8IPbF289SN-rul-O",
+    "email": "diegofs812@gmail.com",
+    "name": "diego F",
+    "hash": "$2a$10$cVeAvTlEI3cSEZUADo0nv.lXlr64yZPHVnkAeMXEzxoSeLTKJfgxG",
+    "isAdmin": false,
+    "createdAt": 1761110084904
+  }
+]
